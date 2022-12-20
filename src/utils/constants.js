@@ -1,0 +1,1 @@
+export const hourInMilliseconds = 1000 * 60 * 60
